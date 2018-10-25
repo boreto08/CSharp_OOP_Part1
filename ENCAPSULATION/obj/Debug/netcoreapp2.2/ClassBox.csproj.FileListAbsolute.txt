@@ -1,0 +1,11 @@
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.csprojAssemblyReference.cache
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.AssemblyInfo.cs
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\bin\Debug\netcoreapp2.2\ClassBox.deps.json
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\bin\Debug\netcoreapp2.2\ClassBox.runtimeconfig.json
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\bin\Debug\netcoreapp2.2\ClassBox.runtimeconfig.dev.json
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\bin\Debug\netcoreapp2.2\ClassBox.dll
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\bin\Debug\netcoreapp2.2\ClassBox.pdb
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.dll
+C:\Users\P\Desktop\CSharpOOP\CSharp_OOP_Part1\ENCAPSULATION\ENCAPSULATION\ENCAPSULATION\obj\Debug\netcoreapp2.2\ClassBox.pdb
